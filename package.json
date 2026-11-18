@@ -1,0 +1,17 @@
+{
+  "name": "gestiondenotas",
+  "version": "1.0.0",
+  "description": "Este es un software de gestión de notas para estudiantes, que permite a los usuarios crear, organizar y acceder a sus notas de manera eficiente.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Gabriela herrán Vela",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
